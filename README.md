@@ -39,3 +39,12 @@ The design is based off of the [OLSK Small 3D Printer V2](https://github.com/Ope
 ## Authors
 - Mentor:
     - Dr. Christoph Kossack
+- Industry Supporters:
+    - Dr. Terence J. Fagan
+    - Jeremy Losaw
+- Team:
+    - Zack Stump | Project Lead | Mechanical Engineer
+    - Cameron Mixon-tinsley | Mechanical Engineer
+    - Gavin Dennis | Mechanical Engineer Tech
+    - Marianne Lindo | Electrical Engineer
+    - Sean Gilbert | Computer Engineer
