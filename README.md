@@ -42,7 +42,7 @@ The design is based off of the [OLSK Small 3D Printer V2](https://github.com/Ope
 - Team:
     - Zack Stump | Project Lead | Mechanical Engineering
     - Cameron Mixon-tinsley | Mechanical Engineering
-    - Gavin Dennis | Mechanical Engineer Technology
+    - Gavin Dennis | Mechanical Engineering Technology
     - Marianne Lindo | Electrical Engineering
     - Sean Gilbert | Computer Engineering
 - Mentor:
