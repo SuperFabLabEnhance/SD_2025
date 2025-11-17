@@ -20,16 +20,14 @@ The design is based off of the [OLSK Small 3D Printer V2](https://github.com/Ope
 
 
 ## Specifications
-### Dimensions
-- placeholder
-### Speed
-- placeholder
-### Bed - Printing Surface
-- placeholder
-### Features
-- placeholder
-### Software
-- placeholder
+- Max Travel Speed:
+- Max Printing Speed:
+- Printing Volume:
+- Motion System: Core XY
+- Nozzle:
+- Power Supply: 48V 600W
+- Firmware: Klipper
+
 
 
 ## Files
@@ -37,7 +35,7 @@ The design is based off of the [OLSK Small 3D Printer V2](https://github.com/Ope
 - CAD
 - Firmware
 - Assembly Workbook
-- 
+- Wiring Schematic
 
 
 ## Authors
