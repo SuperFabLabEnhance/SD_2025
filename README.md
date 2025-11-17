@@ -1,10 +1,10 @@
-# UNC Charlotte Super Fab Lab Senior Design Project
-## OLSK Small 3D Printer V2.1
+<h1 align="center"> UNC Charlotte Super Fab Lab Senior Design Project </h1>
+<h2 align="center"> OLSK Small 3D Printer V2.1 </h2>
 
 
 <!-- The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency. -->
 ![Image of Electronics Bay, replace soon with image of finished printer.](Images/IMG_0260.jpeg)
-UNCC Open Source 3D Printer - Small Version - Open Lab Starter Kit
+<p align="center"> <i> UNCC Open Source 3D Printer | Small Version | Open Lab Starter Kit </i> </p>
 
 
 ## Introduction
