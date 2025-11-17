@@ -14,10 +14,11 @@ The design is based off of the [OLSK Small 3D Printer V2](https://github.com/Ope
 
 
 ## Enhancements
+<!-- Add Images -->
 ### AI Error Detection
 Compares the real image of the print to a slicer image of the print, then detects if there was an error or not. If an error is deteced, then the print is stopped.
 ### Tool Changer
-- placeholder
+placeholder
 
 
 ## Specifications
@@ -52,7 +53,8 @@ Compares the real image of the print to a slicer image of the print, then detect
  
 
 ## Conatcts
-
+- tjfagan@charlotte.edu
+- jlosaw@charlotte.edu
 
  
 ## License
