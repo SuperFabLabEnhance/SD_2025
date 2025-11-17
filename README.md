@@ -34,6 +34,7 @@ Compares the real image of the print to a slicer image of the print, then detect
 - Firmware
 - Assembly Workbook
 - Wiring Schematic
+- Future Improvements
 
 
 ## Authors
@@ -48,6 +49,10 @@ Compares the real image of the print to a slicer image of the print, then detect
 - Industry Supporters:
     - Dr. Terence J. Fagan | Founder and Director of the UNCC SFL | Associate Teaching Professor at UNCC of Mechanical Engineering and Engineering Sciences 
     - Jeremy Losaw | SFL Specialist
+ 
+
+## Conatcts
+
 
  
 ## License
