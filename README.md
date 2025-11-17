@@ -21,11 +21,9 @@ Compares the real image of the print to a slicer image of the print, then detect
 
 
 ## Specifications
-- Max Travel Speed:
-- Max Printing Speed:
 - Printing Volume:
 - Motion System: Core XY
-- Nozzle:
+- Nozzle: 
 - Power Supply: 48V 600W
 - Firmware: Klipper
 
