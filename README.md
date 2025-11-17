@@ -33,21 +33,26 @@ The design is based off of the [OLSK Small 3D Printer V2](https://github.com/Ope
 
 
 ## Files
-- placeholder
+- Bill of Materials
+- CAD
+- Firmware
+- Assembly Workbook
+- 
 
 
 ## Authors
+- Team:
+    - Zack Stump | Project Lead | Mechanical Engineering
+    - Cameron Mixon-tinsley | Mechanical Engineering
+    - Gavin Dennis | Mechanical Engineer Technology
+    - Marianne Lindo | Electrical Engineering
+    - Sean Gilbert | Computer Engineering
 - Mentor:
     - Dr. Christoph Kossack | Teaching Assistant Professor at UNCC of Mechanical Engineering and Engineering Sciences
 - Industry Supporters:
     - Dr. Terence J. Fagan | Founder and Director of the UNCC SFL | Associate Teaching Professor at UNCC of Mechanical Engineering and Engineering Sciences 
     - Jeremy Losaw | SFL Specialist
-- Team:
-    - Zack Stump | Project Lead | Mechanical Engineer
-    - Cameron Mixon-tinsley | Mechanical Engineer
-    - Gavin Dennis | Mechanical Engineer Tech
-    - Marianne Lindo | Electrical Engineer
-    - Sean Gilbert | Computer Engineer
+
  
 ## License
 Hardware design, CAD and PCB files, BOM, settings and other technical or design files are released under the following license:
