@@ -1,0 +1,53 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: OLSK-Small-3D-Printer-v2-charlotte
+Upstream-Contact: Zack Stump <zstump@charlotte.edu>
+Source: https://github.com/SuperFabLabEnhance/SD_2025
+
+##################################
+# OLSK Small 3D Printer V2 Charlotte
+##################################
+
+Files:
+    src/mech/**
+Copyright:
+    Daniele Ingrassia <daniele@inmachines.net>
+    Tobias Redlich <tobias.redlich@hsu-hh.de>
+    Zack Stump <zstump@charlotte.edu>
+    Cameron Mixon-tinsley
+    Gavin Dennis
+    Marianne Lindo
+    Sean Gilbert
+    Dr. Terence J. Fagan <tjfagan@charlotte.edu>
+    Jeremy Losaw <jlosaw@charlotte.edu>
+License: CERN-OHL-W-2.0
+
+Files:
+    src/elec/**
+Copyright:
+    Zack Stump <zstump@charlotte.edu>
+    Cameron Mixon-tinsley
+    Gavin Dennis
+    Marianne Lindo
+    Sean Gilbert
+    Dr. Terence J. Fagan <tjfagan@charlotte.edu>
+    Jeremy Losaw <jlosaw@charlotte.edu>
+License: CERN-OHL-W-2.0
+
+Files:
+    src/firmware/**
+Copyright:
+    Zack Stump <zstump@charlotte.edu>
+    Cameron Mixon-tinsley
+    Gavin Dennis
+    Marianne Lindo
+    Sean Gilbert
+    Dr. Terence J. Fagan <tjfagan@charlotte.edu>
+    Jeremy Losaw <jlosaw@charlotte.edu>
+License: AGPL-3.0-or-later
+
+
+
+Files:
+    LICENSE_CERN_OHL_W_V2.txt
+Copyright: NONE
+License: CC0-1.0
