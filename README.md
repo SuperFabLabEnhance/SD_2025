@@ -24,7 +24,7 @@ placeholder
 ## Specifications
 - Printing Volume:
 - Motion System: Core XY
-- Nozzle: 
+- Nozzle:
 - Power Supply: 48V 600W
 - Firmware: Klipper
 
@@ -40,24 +40,32 @@ placeholder
 
 ## Authors
 - Team:
-    - Zack Stump | Project Lead | Mechanical Engineering
-    - Cameron Mixon-tinsley | Mechanical Engineering
-    - Gavin Dennis | Mechanical Engineering Technology
-    - Marianne Lindo | Electrical Engineering
-    - Sean Gilbert | Computer Engineering
+  - Zack Stump | Project Lead | Mechanical Engineering
+  - Cameron Mixon-tinsley | Mechanical Engineering
+  - Gavin Dennis | Mechanical Engineering Technology
+  - Marianne Lindo | Electrical Engineering
+  - Sean Gilbert | Computer Engineering
 - Mentor:
-    - Dr. Christoph Kossack | Teaching Assistant Professor at UNCC of Mechanical Engineering and Engineering Sciences
+  - Dr. Christoph Kossack | Teaching Assistant Professor at UNCC of Mechanical Engineering and Engineering Sciences
+
 - Industry Supporters:
-    - Dr. Terence J. Fagan | Founder and Director of the UNCC SFL | Associate Teaching Professor at UNCC of Mechanical Engineering and Engineering Sciences 
-    - Jeremy Losaw | SFL Specialist
- 
+  - Dr. Terence J. Fagan | Founder and Director of the UNCC SFL | Associate Teaching Professor at UNCC of Mechanical Engineering and Engineering Sciences
+  - Jeremy Losaw | SFL Specialist
 
-## Conatcts
-- tjfagan@charlotte.edu
-- jlosaw@charlotte.edu
 
- 
+## Contacts
+- Zack Stump <zstump@charlotte.edu>
+- Dr. Terence J. Fagan <tjfagan@charlotte.edu>
+- Jeremy Losaw <jlosaw@charlotte.edu>
+
+## External Partners
+
+- Tobias Redlich - Academic Director - Helmut Schmidt University / University of the Federal Armed Forces Germany
+- J.C. Mariscal-Melgar - Research associate - Helmut Schmidt University / University of the Federal Armed Forces Germany - <jcm@hsu-hh.de>
+- Daniele Ingrassia - Inmachines GmbH - <info@inmachines.net>
+
 ## License
+
 Hardware design, CAD and PCB files, BOM, settings and other technical or design files are released under the following license:
 - CERN Open Hardware Licence Version 2 Weakly Reciprocal - [CERN-OHL-W](License/ICENSE_CERN_OHL_W_V2.txt)
 
