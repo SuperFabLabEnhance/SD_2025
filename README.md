@@ -1,27 +1,25 @@
 <h1 align="center"> UNC Charlotte Super Fab Lab Senior Design Project </h1>
-<h2 align="center"> OLSK Small 3D Printer V2.1 </h2>
-
+<h2 align="center"> OLSK Small 3D Printer V2 Charlotte </h2>
 
 <!-- The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency. -->
 ![Image of Electronics Bay, replace soon with image of finished printer.](Images/IMG_0260.jpeg)
 <p align="center"> <i> UNCC Open Source 3D Printer | Small Version | Open Lab Starter Kit </i> </p>
 
-
 ## Introduction
-The OLSK Small 3D Printer V2.1 is a Senior Design project under the Senior Design Program at the University of North Carolina at Charlotte (UNCC). The team chose to research, present, and prototype enhancements of the OLSK Small 3D Printer V2 during a two semester long program for the Super Fab Lab (SFL) at UNCC. The first semester of the program includes the research and design that has gone into the enhancements of the OLSK Small 3D Printer V2.1, which can be found within the team's shared [Google Drive](https://drive.google.com/drive/folders/1odPedf0I5TkGPVz2j4juUl3YjhUF8GlE?usp=drive_link). The second semester of the program includes the fabrication and testing of the prototype, shown in the image above.
+The OLSK Small 3D Printer V2 Charlotte is a Senior Design project under the Senior Design Program at the University of North Carolina at Charlotte (UNCC). The team chose to research, present, and prototype enhancements of the OLSK Small 3D Printer V2 during a two semester long program for the Super Fab Lab (SFL) at UNCC. The first semester of the program includes the research and design that has gone into the enhancements of the OLSK Small 3D Printer V2.1, which can be found within the team's shared [Google Drive](https://drive.google.com/drive/folders/1odPedf0I5TkGPVz2j4juUl3YjhUF8GlE?usp=drive_link). The second semester of the program includes the fabrication and testing of the prototype, shown in the image above.
 
 The design is based off of the [OLSK Small 3D Printer V2](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-3D-Printer/tree/main/OLSK_Small_3D_Printer_V2) created by [InMachines Ingrassia GmBh](https://www.inmachines.net/).
 
-
 ## Enhancements
 <!-- Add Images -->
+
 ### AI Error Detection
 Compares the real image of the print to a slicer image of the print, then detects if there was an error or not. If an error is deteced, then the print is stopped.
 ### Tool Changer
 placeholder
 
-
 ## Specifications
+
 - Printing Volume:
 - Motion System: Core XY
 - Nozzle:
@@ -30,6 +28,7 @@ placeholder
 
 
 ## Files
+
 - Bill of Materials
 - CAD
 - Firmware
