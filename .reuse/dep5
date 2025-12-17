@@ -10,39 +10,39 @@ Source: https://github.com/SuperFabLabEnhance/SD_2025
 Files:
     src/mech/**
 Copyright:
-    Daniele Ingrassia <daniele@inmachines.net>
-    Tobias Redlich <tobias.redlich@hsu-hh.de>
-    Zack Stump <zstump@charlotte.edu>
-    Cameron Mixon-tinsley
-    Gavin Dennis
-    Marianne Lindo
-    Sean Gilbert
-    Dr. Terence J. Fagan <tjfagan@charlotte.edu>
-    Jeremy Losaw <jlosaw@charlotte.edu>
+    2023-2025 Daniele Ingrassia <daniele@inmachines.net>
+    2023-2025 Tobias Redlich <tobias.redlich@hsu-hh.de>
+    2025 Zack Stump <zstump@charlotte.edu>
+    2025 Cameron Mixon-tinsley
+    2025 Gavin Dennis
+    2025 Marianne Lindo
+    2025 Sean Gilbert
+    2025 Dr. Terence J. Fagan <tjfagan@charlotte.edu>
+    2025 Jeremy Losaw <jlosaw@charlotte.edu>
 License: CERN-OHL-W-2.0
 
 Files:
     src/elec/**
 Copyright:
-    Zack Stump <zstump@charlotte.edu>
-    Cameron Mixon-tinsley
-    Gavin Dennis
-    Marianne Lindo
-    Sean Gilbert
-    Dr. Terence J. Fagan <tjfagan@charlotte.edu>
-    Jeremy Losaw <jlosaw@charlotte.edu>
+    2025 Zack Stump <zstump@charlotte.edu>
+    2025 Cameron Mixon-tinsley
+    2025 Gavin Dennis
+    2025 Marianne Lindo
+    2025 Sean Gilbert
+    2025 Dr. Terence J. Fagan <tjfagan@charlotte.edu>
+    2025 Jeremy Losaw <jlosaw@charlotte.edu>
 License: CERN-OHL-W-2.0
 
 Files:
     src/firmware/**
 Copyright:
-    Zack Stump <zstump@charlotte.edu>
-    Cameron Mixon-tinsley
-    Gavin Dennis
-    Marianne Lindo
-    Sean Gilbert
-    Dr. Terence J. Fagan <tjfagan@charlotte.edu>
-    Jeremy Losaw <jlosaw@charlotte.edu>
+    2025 Zack Stump <zstump@charlotte.edu>
+    2025 Cameron Mixon-tinsley
+    2025 Gavin Dennis
+    2025 Marianne Lindo
+    2025 Sean Gilbert
+    2025 Dr. Terence J. Fagan <tjfagan@charlotte.edu>
+    2025 Jeremy Losaw <jlosaw@charlotte.edu>
 License: AGPL-3.0-or-later
 
 
